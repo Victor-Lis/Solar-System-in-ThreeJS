@@ -1,0 +1,19 @@
+{
+  "name": "solar-system-in-threejs",
+  "version": "1.0.0",
+  "description": "Esse é um projeto para aprender um pouco mais sobre ThreeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Victor-Lis"
+  },
+  "author": "Dev-Victor-Lis",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.160.0"
+  }
+}
