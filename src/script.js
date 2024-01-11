@@ -34,7 +34,7 @@ const orbit = new OrbitControls(camera, renderer.domElement);
 
 camera.position.set(-250, 40, 290)
 orbit.update()
-orbit.enabled = false
+// orbit.enabled = false
 
 const ambientLight = new THREE.AmbientLight(0x444444)
 scene.add(ambientLight)
