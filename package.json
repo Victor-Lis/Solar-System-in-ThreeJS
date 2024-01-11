@@ -2,7 +2,6 @@
   "name": "solar-system-in-threejs",
   "version": "1.0.0",
   "description": "Esse é um projeto para aprender um pouco mais sobre ThreeJS",
-  "main": "index.js",
   "scripts": {
     "test": "parcel src/index.html",
     "build": "npm install & npm i three & npm i dat.gui & npm i parcel"
