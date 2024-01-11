@@ -4,7 +4,8 @@
   "description": "Esse é um projeto para aprender um pouco mais sobre ThreeJS",
   "main": "index.js",
   "scripts": {
-    "test": "parcel src/index.html"
+    "test": "parcel src/index.html",
+    "build": "npm install & npm i three & npm i dat.gui & npm i parcel"
   },
   "repository": {
     "type": "git",
